@@ -2,6 +2,7 @@
 
 A simple full‑stack VaR calculator that fetches live equity price data by ticker, computes daily returns, and calculates Value at Risk using Historical, Parametric, or Monte Carlo methods. Includes a React UI with parameter controls, histogram visualization, and CSV report export.
 
+
 ---
 
 ## 🚀 Blurb & Real‑World Use
