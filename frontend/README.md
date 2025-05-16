@@ -5,7 +5,7 @@ A simple full‑stack VaR calculator that fetches live equity price data by tick
 
 ---
 
-## 🚀 Blurb & Real‑World Use
+## Real‑World Use
 
 > **What is VaR?**
 >
